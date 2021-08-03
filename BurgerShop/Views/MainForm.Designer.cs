@@ -1,7 +1,7 @@
 ﻿
-namespace BurgerShop
+namespace BurgerShop.Views
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
