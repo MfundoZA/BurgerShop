@@ -20,6 +20,6 @@ namespace BurgerShop.Models
         }
 
         public string Bun { get => bun; set => bun = value; }
-        public string Patty { get => patty; set => patty = value; }
+        public virtual string Patty { get => patty; set => patty = value; }
     }
 }
